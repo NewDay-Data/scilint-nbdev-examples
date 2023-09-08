@@ -1,2 +1,2 @@
-# scilint-nbdev-examples
-Repository of examples for how to use scilint with an nbdev-based project
+# scilint-not-nbdev-examples
+Example usage of the scilint library on projects that are not based on nbdev
